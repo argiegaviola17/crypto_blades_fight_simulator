@@ -8,4 +8,4 @@ thank you
 
 Based on https://wax-dapps.site/crypto-blades/combat
 
-
+Use on https://app.cryptoblades.io/
