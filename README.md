@@ -17,3 +17,6 @@ Donate: 0x6F177F4D4181Ef5E872eAB83566Cd320fb4e5Cf2
 
 
 how to use https://developer.chrome.com/docs/extensions/mv3/getstarted/
+
+NOTE: PLEASE CHOOSE ATLEAST 90% WIN CHANCE
+
